@@ -1,0 +1,163 @@
+.logo{
+    width: 11px;
+    text-align: center;
+}
+.logo img{
+    width: 90px;
+    height: 80px;
+    margin-left: 50%;
+   margin-top: 9px;
+}
+.navbar{
+    /* border: 3px solid red; */
+    background-color: white;
+    display: flex;
+    height: 96px;
+    position: sticky;
+    top: 0;
+    margin-right: -304px;
+}
+.navbar ul{
+    display: flex;
+    align-items: center;
+    margin-left: 28%;
+}
+
+
+.home img{
+    width: 104%;
+    margin-right: 72px;
+    margin-top: 29px;
+}
+.details h3{
+    font-size: 1.8rem;
+}
+.details p{
+    margin-top: 21px;
+    font-size: 1rem;
+}
+.but_three{
+    margin-left: 78%;   
+}
+
+
+.whytens{
+    text-align: center;
+    width: 177%;
+}
+.whytens h2{
+    font-size: 1.8rem;
+    margin-top: 111px;
+ }
+ .whytens p1{
+    font-size: 1rem;
+}
+.whytens p2{
+    font-size: 1rem;
+}
+.whytens p3{
+    font-size: 1rem;
+}
+
+
+.speciality h2{
+    display: flex;
+    width: 100%;
+    margin-left: 265px;
+    font-size: 1.8rem;
+}
+.speciality p1{
+    display: flex;
+    width: 100%;
+    margin-left: 190px;
+    font-size: 1rem;
+}
+.wireframe{
+    display: flex;
+    width: 65%;
+    margin: auto;
+    text-align: center;
+}
+
+.box1{
+    /* border: 2px solid red; */
+    margin-right: 53px;
+    width: 66%;
+}
+.box1 h3{
+    margin-top: 15px;
+}
+.box1 p{
+    margin-top: 15px;
+    width: 103%;
+}
+
+.box2{
+    /* border: 2px solid red; */
+    margin-right: 50px;
+    width: 77%;
+}
+.box2 h3{
+    margin-top: 28px;
+}
+.box2 p{
+    margin-top: 15px;
+    width: 74%;
+    margin-left: 27px;
+}
+
+.box3{
+    /* border: 2px solid red; */
+    width: 51%;
+}
+.box3 h3{
+    margin-top: 39px;
+}
+.box3 p{
+    margin-top: 15px;
+    width: 140%;
+    margin-left: -24px;
+}
+
+
+
+.clients{
+    text-align: center;
+    width: 181%;
+}
+.clients h2{
+    font-size: 1.8rem;
+    margin-top: 180px;
+}
+.clients p{
+    width: 59%;
+    margin: auto;
+    font-size: 1rem;
+    margin-top: 18px;
+    margin-bottom: 82px;
+}
+
+
+.team{
+    text-align: center;
+    width: 181%;
+}
+.team h2{
+    font-size: 1.8rem;
+}
+.team p1{
+    font-size: 1rem;
+}
+
+
+
+.contact{
+    width: 181%;
+    padding-bottom: 45px;
+}
+.mail{
+    width: 14%;
+}
+.copyright{
+    width: 175.7%;
+}
